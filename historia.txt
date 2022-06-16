@@ -1,3 +1,10 @@
 Hola soy gabriel, tengo 20 y soy programador y naci en Venezuela.
+<<<<<<< HEAD
 Master 1
 Master 2
+=======
+
+Experimento 1
+
+Master 1
+>>>>>>> 76b9b24 (exp1)
