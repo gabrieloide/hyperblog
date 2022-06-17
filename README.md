@@ -11,6 +11,7 @@ Un blog hecho desde el curso profesional de Git y Github
 - Las personalidadeds multiples de Freddy
 - Creadi por Gabriel
 - Incluye ejemplo en windows
+- Disponible para todo el mundo
 
 Este **readme.md** es un chiste para hacer el ejemplo practico,  para saber mas del curso entra en platzi[ Curso profesional de Git y Github][123]
 
